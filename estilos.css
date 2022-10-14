@@ -1,0 +1,19 @@
+body {
+    background-color: #bc6b6b background-color: #00705a;
+    background-image: url("brick-wall.png");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: 200px;
+
+
+}
+
+p {
+    background-color: rgba(0, 0, 255, 0.5);
+    color: white;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    margin: 30px;
+    border-radius: 10px;
+}
